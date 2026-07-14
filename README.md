@@ -1,6 +1,3 @@
-# Wound-Monitoring-System
-An AI-powered wound monitoring system that leverages image processing and machine learning to analyze wound conditions, track healing progress, and support healthcare professionals with accurate and efficient wound assessment.
-
 # Wound Monitoring System
 
 The Wound Monitoring System is an intelligent healthcare application designed to assist in the assessment and monitoring of wound healing using image processing and machine learning techniques. The system enables users to upload wound images, analyze wound characteristics, and monitor healing progress over time through an intuitive and user-friendly interface.
