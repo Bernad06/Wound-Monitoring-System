@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.db
+*.sqlite
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Uploads and temp files
+uploads/*
+!uploads/.gitkeep
+temp/
